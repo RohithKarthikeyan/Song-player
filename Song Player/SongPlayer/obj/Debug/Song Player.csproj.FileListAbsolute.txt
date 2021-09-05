@@ -1,0 +1,18 @@
+C:\Users\rohit\Downloads\Song Player\SongPlayer\bin\Debug\SongPlayer.exe
+C:\Users\rohit\Downloads\Song Player\SongPlayer\bin\Debug\SongPlayer.pdb
+C:\Users\rohit\Downloads\Song Player\SongPlayer\obj\Debug\Song Player.csprojAssemblyReference.cache
+C:\Users\rohit\Downloads\Song Player\SongPlayer\obj\Debug\SongPlayer.SongPlayerForm.resources
+C:\Users\rohit\Downloads\Song Player\SongPlayer\obj\Debug\Song_Player.Properties.Resources.resources
+C:\Users\rohit\Downloads\Song Player\SongPlayer\obj\Debug\Song Player.csproj.GenerateResource.cache
+C:\Users\rohit\Downloads\Song Player\SongPlayer\obj\Debug\Song Player.csproj.CoreCompileInputs.cache
+C:\Users\rohit\Downloads\Song Player\SongPlayer\obj\Debug\SongPlayer.exe
+C:\Users\rohit\Downloads\Song Player\SongPlayer\obj\Debug\SongPlayer.pdb
+D:\CS2\Song Player\SongPlayer\bin\Debug\SongPlayer.exe
+D:\CS2\Song Player\SongPlayer\bin\Debug\SongPlayer.pdb
+D:\CS2\Song Player\SongPlayer\obj\Debug\Song Player.csproj.AssemblyReference.cache
+D:\CS2\Song Player\SongPlayer\obj\Debug\SongPlayer.SongPlayerForm.resources
+D:\CS2\Song Player\SongPlayer\obj\Debug\Song_Player.Properties.Resources.resources
+D:\CS2\Song Player\SongPlayer\obj\Debug\Song Player.csproj.GenerateResource.cache
+D:\CS2\Song Player\SongPlayer\obj\Debug\Song Player.csproj.CoreCompileInputs.cache
+D:\CS2\Song Player\SongPlayer\obj\Debug\SongPlayer.exe
+D:\CS2\Song Player\SongPlayer\obj\Debug\SongPlayer.pdb
